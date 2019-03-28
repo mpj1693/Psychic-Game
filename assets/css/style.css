@@ -1,0 +1,26 @@
+body {
+  text-align: center;
+  background: aquamarine;
+}
+
+h1 {
+  background: aquamarine;
+  margin: 15px;
+  font-size: 75px;
+}
+
+h3 {
+  margin-top: 15px;
+  font-size: 35px;
+}
+
+h5 {
+  margin: 15px;
+  font-size: 25px;
+}
+
+.container {
+  background: lightsalmon;
+  margin-top: 25px;
+  padding: 25px;
+}
