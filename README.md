@@ -1,3 +1,5 @@
+# Psychic-Game
+
 ### Overview
 
 This is a basic alphabet guessing game. The computer randomly chooses a random alphabet and you get 10 chances to guess what that alphabet might be.
@@ -8,4 +10,15 @@ This is a basic alphabet guessing game. The computer randomly chooses a random a
 * Javascript
 * CSS
 
-![Psychic-Game-Screenshot](Psychic-Game/assets/images/Capture.PNG)
+![Psychic-Game-Screenshot](assets/images/Capture1.PNG)
+
+
+### Explaination
+
+
+![Psychic-Game-Screenshot](assets/images/Capture.PNG)
+
+
+### Author
+
+Manav Patel
