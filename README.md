@@ -1,6 +1,6 @@
 # Psychic-Game
 
-## Link:  https://mpj1693.github.io/Psychic-Game/
+### Link:  https://mpj1693.github.io/Psychic-Game/
 
 ### Overview
 
